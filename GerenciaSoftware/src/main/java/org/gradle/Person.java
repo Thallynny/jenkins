@@ -11,8 +11,8 @@ public class Person {
     }
 
     public String getName() {
-        return name;
-    	//return "thallynny";
+        //return name;
+    	return "thallynny";
     	
     }
 }
